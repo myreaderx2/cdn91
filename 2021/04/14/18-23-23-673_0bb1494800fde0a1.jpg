@@ -1,0 +1,1104 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<script type="text/javascript">
+  if (typeof window !== 'undefined') {
+    window.CosEnv = "production";
+  }
+</script>
+<script type="text/javascript" src="/js/config/environment.js"></script>
+<meta name="p:domain_verify" content="392847c63439690b78c14d6108ed983a" />
+<meta name="author" content="CoSchedule">
+<link rel="icon" href="/img/favicon.ico" type="image/x-icon">
+<meta http-equiv="Cache-control" content="public">
+<meta name="msvalidate.01" content="489425F287FF0B37EB7344C501260E79" />
+
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js" type="text/javascript"></script>
+
+<script src="//cdnjs.cloudflare.com/ajax/libs/json2/20110223/json2.js"></script>
+
+<script src="https://www.google.com/recaptcha/api.js?render=6LfmI6wZAAAAABO4qM0E8tgNXPfGFhRRHGZy-PwT"></script>
+
+<script src="https://accounts.coschedule.com/client/index.js"></script>
+
+<script type="text/javascript" src="/js-compiled/vendor.min.js"></script>
+
+<link rel="stylesheet" href="https://s3.amazonaws.com/icomoon.io/8794/cos-website/style.css?a5bw0p">
+<script src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js"></script>
+<script>
+  WebFont.load({
+    google: {
+      families: ['Merriweather: 300,300i']
+    }
+  });
+</script>
+<script type="text/javascript" src="/js/coschedule-funnel-position.js" async></script>
+
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+      new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-TLV47ML');</script>
+
+
+<script type="text/javascript">var _kmq = _kmq || [];
+  var _kmk = _kmk || '2d115128f832c144406fd198bcc3346e54f269d9';
+  function _kms(u){
+    setTimeout(function(){
+      var d = document, f = d.getElementsByTagName('script')[0],
+        s = d.createElement('script');
+      s.type = 'text/javascript'; s.async = true; s.src = u;
+      f.parentNode.insertBefore(s, f);
+    }, 1);
+  }
+  _kms('//i.kissmetrics.com/i.js');
+  _kms('//scripts.kissmetrics.com/' + _kmk + '.2.js');
+</script>
+
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '1526531474310639');
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=1526531474310639&ev=PageView&noscript=1"
+/></noscript>
+
+
+
+<script src="https://www.dwin1.com/19038.js" type="text/javascript" defer="defer"></script>
+
+<meta name="description" content="Press releases bring attention to your brand. Learn how to write press release headlines that make journalists want to share your content." />
+<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+<link rel="canonical" href="https://coschedule.com/blog/press-release-headlines/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="How to Write Press Release Headlines That Get Journalists&#039; Attention" />
+<meta property="og:description" content="Press releases bring attention to your brand. Learn how to write press release headlines that make journalists want to share your content." />
+<meta property="og:url" content="https://coschedule.com/blog/press-release-headlines/" />
+<meta property="og:site_name" content="CoSchedule Blog" />
+<meta property="article:published_time" content="2021-04-14T13:00:00+00:00" />
+<meta property="article:modified_time" content="2021-04-13T20:04:39+00:00" />
+<meta property="og:image" content="https://media.coschedule.com/uploads/2021/04/Blog_How-to-write-press-release-headlines-that-will-get-a-journalists-attention_header-2.png" />
+<meta property="og:image:width" content="1360" />
+<meta property="og:image:height" content="570" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:creator" content="@coschedule" />
+<meta name="twitter:site" content="@coschedule" />
+<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://coschedule.com/#website","url":"https://coschedule.com/","name":"CoSchedule Blog","description":"The Ultimate Marketing Blog","potentialAction":[{"@type":"SearchAction","target":"https://coschedule.com/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"ImageObject","@id":"https://coschedule.com/blog/press-release-headlines/#primaryimage","inLanguage":"en-US","url":"https://media.coschedule.com/uploads/2021/04/Blog_How-to-write-press-release-headlines-that-will-get-a-journalists-attention_header-2.png","width":1360,"height":570},{"@type":"WebPage","@id":"https://coschedule.com/blog/press-release-headlines/#webpage","url":"https://coschedule.com/blog/press-release-headlines/","name":"How to Write Press Release Headlines That Get Journalists' Attention","isPartOf":{"@id":"https://coschedule.com/#website"},"primaryImageOfPage":{"@id":"https://coschedule.com/blog/press-release-headlines/#primaryimage"},"datePublished":"2021-04-14T13:00:00+00:00","dateModified":"2021-04-13T20:04:39+00:00","author":{"@id":"https://coschedule.com/#/schema/person/c94e3021c54a84a2e87014de9d015617"},"description":"Press releases bring attention to your brand. Learn how to write press release headlines that make journalists want to share your content.","inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://coschedule.com/blog/press-release-headlines/"]}]},{"@type":"Person","@id":"https://coschedule.com/#/schema/person/c94e3021c54a84a2e87014de9d015617","name":"Lizzie Davey","image":{"@type":"ImageObject","@id":"https://coschedule.com/#personlogo","inLanguage":"en-US","url":"https://secure.gravatar.com/avatar/74c918ac779b81d2a20b9506db75fa23?s=96&d=mm&r=g","caption":"Lizzie Davey"}}]}</script>
+
+<link rel='dns-prefetch' href='//cdn.jsdelivr.net' />
+<link rel='dns-prefetch' href='//code.ionicframework.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel='dns-prefetch' href='//media.coschedule.com' />
+<link rel='dns-prefetch' href='//v0.wordpress.com' />
+<link rel="alternate" type="application/rss+xml" title="CoSchedule Blog &raquo; How to Write Press Release Headlines That Will Get a Journalist’s Attention Comments Feed" href="https://coschedule.com/blog/press-release-headlines/feed/" />
+<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/coschedule.com\/blog\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.5.1"}};
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='wp-block-library-css' href='https://coschedule.com/blog/wp-includes/css/dist/block-library/style.min.css?ver=5.5.1' type='text/css' media='all' />
+<style id='wp-block-library-inline-css' type='text/css'>
+.has-text-align-justify{text-align:justify;}
+</style>
+<link rel='stylesheet' id='tm_clicktotweet-css' href='https://coschedule.com/blog/wp-content/plugins/click-to-tweet-by-todaymade/assets/css/styles.css?ver=5.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='podcast-motor-icons-css-css' href='https://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css?ver=5.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='podcast-motor-site-css-css' href='https://coschedule.com/blog/wp-content/plugins/podcastmotor-player-master/etc/css/podcast-motor-site.css?ver=5.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='rate-my-post-css' href='https://coschedule.com/blog/wp-content/plugins/rate-my-post/public/css/rate-my-post.css?ver=3.3.1' type='text/css' media='all' />
+<style id='rate-my-post-inline-css' type='text/css'>
+.rmp-widgets-container.rmp-wp-plugin.rmp-main-container {  text-align:left;}
+</style>
+<link rel='stylesheet' id='tm_cookie-css' href='https://coschedule.com/blog/wp-content/plugins/tm-cookie/assets/css/styles.css?ver=5.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='searchwp-live-search-css' href='https://coschedule.com/blog/wp-content/plugins/searchwp-live-ajax-search/assets/styles/style.css?ver=1.4.6' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css' href='https://coschedule.com/blog/wp-content/plugins/jetpack/css/jetpack.css?ver=9.0.2' type='text/css' media='all' />
+<script type='text/javascript' src='https://coschedule.com/blog/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://coschedule.com/blog/wp-content/plugins/podcastmotor-player-master/etc/js/velocity.min.js?ver=5.5.1' id='podcast-motor_velocity-js'></script>
+<script type='text/javascript' id='podcast-motor_site_js-js-extra'>
+/* <![CDATA[ */
+var oit_ajax = {"ajaxurl":"https:\/\/coschedule.com\/blog\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://coschedule.com/blog/wp-content/plugins/podcastmotor-player-master/etc/js/podcast-motor-site.js?ver=5.5.1' id='podcast-motor_site_js-js'></script>
+<script type='text/javascript' src='https://cdn.jsdelivr.net/jquery.goodshare.js/3.2.8/goodshare.min.js?ver=5.5.1' id='podcast-motor_social_js-js'></script>
+<link rel="https://api.w.org/" href="https://coschedule.com/wp-json/" /><link rel="alternate" type="application/json" href="https://coschedule.com/wp-json/wp/v2/posts/93158" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://coschedule.com/blog/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://coschedule.com/blog/wp-includes/wlwmanifest.xml" />
+<meta name="generator" content="WordPress 5.5.1" />
+<link rel='shortlink' href='https://wp.me/p3evek-oey' />
+<link rel="alternate" type="application/json+oembed" href="https://coschedule.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcoschedule.com%2Fblog%2Fpress-release-headlines%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://coschedule.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcoschedule.com%2Fblog%2Fpress-release-headlines%2F&#038;format=xml" />
+<style type='text/css'>img#wpstats{display:none}</style><link rel="icon" href="https://media.coschedule.com/uploads/cropped-coschedule-favicon-512-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://media.coschedule.com/uploads/cropped-coschedule-favicon-512-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://media.coschedule.com/uploads/cropped-coschedule-favicon-512-180x180.png" />
+<meta name="msapplication-TileImage" content="https://media.coschedule.com/uploads/cropped-coschedule-favicon-512-270x270.png" />
+<link rel="preload" href="/blog/wp-includes/js/wp-emoji-release.min.js?ver=5.5.1" as="script"><link rel="preload" href="/blog/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp" as="script"><link rel="preload" href="/blog/wp-content/plugins/podcastmotor-player-master/etc/js/velocity.min.js?ver=5.5.1" as="script"><link rel="preload" href="/blog/wp-content/plugins/podcastmotor-player-master/etc/js/podcast-motor-site.js?ver=5.5.1" as="script"><link rel="preload" href="/blog/wp-includes/css/dist/block-library/style.min.css?ver=5.5.1" as="style"><link rel="preload" href="/blog/wp-content/plugins/click-to-tweet-by-todaymade/assets/css/styles.css?ver=5.5.1" as="style"><link rel="preload" href="/blog/wp-content/plugins/podcastmotor-player-master/etc/css/podcast-motor-site.css?ver=5.5.1" as="style"><link rel="preload" href="/blog/wp-content/plugins/rate-my-post/public/css/rate-my-post.css?ver=3.3.1" as="style"><link rel="preload" href="/blog/wp-content/plugins/tm-cookie/assets/css/styles.css?ver=5.5.1" as="style"><link rel="preload" href="/blog/wp-content/plugins/searchwp-live-ajax-search/assets/styles/style.css?ver=1.4.6" as="style"><link rel="preload" href="/blog/wp-content/plugins/jetpack/css/jetpack.css?ver=9.0.2" as="style"><style type="text/css" media="screen">
+      html { margin-top: 0px !important; }
+      * html body { margin-top: 0px !important; }
+      </style>
+<title>How to Write Press Release Headlines That Get Journalists&#039; Attention </title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="generator" content="WordPress 5.5.1" /> 
+<meta property="fb:admins" content="1512048220" />
+<meta property="fb:app_id" content="150962291668757" />
+
+<script type="text/javascript" src="https://coschedule.com/blog/wp-content/themes/CoS4/js/js-global.js"></script>
+
+<link rel="stylesheet" type="text/css" href="https://coschedule.com/blog/wp-content/themes/CoS4/css/museo-min.css" />
+<link rel="stylesheet" type="text/css" href="https://coschedule.com/blog/wp-content/themes/CoS4/css/cos-style-min.css" />
+<link rel="stylesheet" type="text/css" href="https://coschedule.com/blog/wp-content/themes/CoS4/css/animate.min.css" />
+
+<link rel="chrome-webstore-item" href="https://chrome.google.com/webstore/detail/cojlloeohkdmongfddeggmplibjannea">
+
+<script type='text/javascript'>
+var _vwo_code=(function(){
+var account_id=68333,
+settings_tolerance=2000,
+library_tolerance=2500,
+use_existing_jquery=false,
+// DO NOT EDIT BELOW THIS LINE
+f=false,d=document;return{use_existing_jquery:function(){return use_existing_jquery;},library_tolerance:function(){return library_tolerance;},finish:function(){if(!f){f=true;var a=d.getElementById('_vis_opt_path_hides');if(a)a.parentNode.removeChild(a);}},finished:function(){return f;},load:function(a){var b=d.createElement('script');b.src=a;b.type='text/javascript';b.innerText;b.onerror=function(){_vwo_code.finish();};d.getElementsByTagName('head')[0].appendChild(b);},init:function(){settings_timer=setTimeout('_vwo_code.finish()',settings_tolerance);var a=d.createElement('style'),b='body{opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;}',h=d.getElementsByTagName('head')[0];a.setAttribute('id','_vis_opt_path_hides');a.setAttribute('type','text/css');if(a.styleSheet)a.styleSheet.cssText=b;else a.appendChild(d.createTextNode(b));h.appendChild(a);this.load('//dev.visualwebsiteoptimizer.com/j.php?a='+account_id+'&u='+encodeURIComponent(d.URL)+'&r='+Math.random());return settings_timer;}};}());_vwo_settings_timer=_vwo_code.init();
+</script>
+
+
+<link rel="alternate" type="application/rss+xml" title="RSS" href="https://coschedule.com/feed/" />
+</head>
+<body>
+
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TLV47ML"
+                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+
+
+<div class="cos-blog-hello-bar aj-cos-hello-bar">
+
+<div class="hello-bar-inner aj-hello-bar-inner-hs hidden">
+<div class="hello-bar-content aj-hello-bar-content-test-a">
+<p><strong>Write better headlines (finally!)</strong> 🎉 with the new Headline Studio.</p>
+<a href="https://coschedule.com/headline-studio?utm_source=web&utm_medium=hello-bar&utm_campaign=web-plus-two&utm_term=1&utm_content=headline-studio" title="Learn more about the new Headline Studio" class="aj-close-hello-bar">
+<button class="btn btn-default hello-bar-btn btn-hs">Try It Free</button>
+</a>
+</div>
+<div class="hello-bar-content aj-hello-bar-content-test-b hidden">
+<p>Try CoSchedule’s free headline tool to start writing next-level blog headlines.</p>
+<a href="https://coschedule.com/headline-studio?utm_source=web&utm_medium=hello-bar&utm_campaign=web-plus-two&utm_term=3&utm_content=headline-studio" title="Learn more about the new Headline Studio" class="aj-close-hello-bar">
+<button class="btn btn-default hello-bar-btn btn-hs">Join Headline Studio For Free</button>
+</a>
+</div>
+</div>
+
+<div class="hello-bar-inner aj-hello-bar-inner-acad hidden">
+<div class="hello-bar-content aj-hello-bar-content-test-a">
+<p>Improve your marketing with on-demand courses designed to give you actionable, results-driven content.</p>
+<a href="https://coschedule.com/academy/academy-pro?utm_source=web&utm_medium=hello-bar&utm_campaign=web-plus-two&utm_term=1&utm_content=academy-pro" title="Learn more about CoSchedule Academy" class="aj-close-hello-bar">
+<button class="btn btn-default hello-bar-btn btn-acad">Enroll In CoSchedule Marketing Academy</button>
+</a>
+</div>
+<div class="hello-bar-content aj-hello-bar-content-test-b hidden">
+<p>Improve your marketing with fluff-free training. Join CoSchedule Academy to access 100s of exclusive videos, resources, & tutorials.</p>
+<a href="https://coschedule.com/academy/academy-pro?utm_source=web&utm_medium=hello-bar&utm_campaign=web-plus-two&utm_term=3&utm_content=academy-pro" title="Learn more about CoSchedule Academy" class="aj-close-hello-bar">
+<button class="btn btn-default hello-bar-btn btn-acad">Enroll To Start Learning</button>
+</a>
+</div>
+</div>
+
+<div class="hello-bar-inner aj-hello-bar-inner-cos-trial hidden">
+<div class="hello-bar-content aj-hello-bar-content-test-a">
+<p>Organize all your marketing in one place with marketing calendar software from CoSchedule.</p>
+<a href="https://coschedule.com/signup?utm_source=web&utm_medium=hello-bar&utm_campaign=web-plus-two&utm_term=1&utm_content=trial" title="Learn more about CoSchedule Academy" class="aj-close-hello-bar">
+<button class="btn btn-default hello-bar-btn">Start A Trial</button>
+</a>
+</div>
+<div class="hello-bar-content aj-hello-bar-content-test-b hidden">
+<p>Stop coordinating marketing & start doing it. Complete up to 4x more projects with CoSchedule’s calendar products.</p>
+<a href="https://coschedule.com/signup?utm_source=web&utm_medium=hello-bar&utm_campaign=web-plus-two&utm_term=3&utm_content=trial" title="Learn more about CoSchedule Academy" class="aj-close-hello-bar">
+<button class="btn btn-default hello-bar-btn">Start A Free Trial</button>
+</a>
+</div>
+</div>
+
+<div class="hello-bar-inner aj-hello-bar-inner-cos-demo hidden">
+<div class="hello-bar-content aj-hello-bar-content-test-a">
+<p>Organize all your marketing in one place with marketing calendar software from CoSchedule.</p>
+<a href="https://coschedule.com/product-demo?utm_source=web&utm_medium=hello-bar&utm_campaign=web-plus-two&utm_term=1&utm_content=demo" title="Learn more about CoSchedule Academy" class="aj-close-hello-bar">
+<button class="btn btn-default hello-bar-btn">Schedule A Demo</button>
+</a>
+</div>
+<div class="hello-bar-content aj-hello-bar-content-test-b hidden">
+<p>Stop coordinating marketing & start doing it. Complete up to 4x more projects with CoSchedule’s calendar products.</p>
+<a href="https://coschedule.com/product-demo?utm_source=web&utm_medium=hello-bar&utm_campaign=web-plus-two&utm_term=3&utm_content=demo" title="Learn more about CoSchedule Academy" class="aj-close-hello-bar">
+<button class="btn btn-default hello-bar-btn">Schedule A Demo</button>
+</a>
+</div>
+</div>
+<svg class="close aj-close-hello-bar" version="1.1" xmlns="http://www.w3.org/2000/svg" x="0" y="0" viewBox="0 0 27 27" xml:space="preserve">
+<path class="st0" d="M2.6 2.6l21.8 21.8M24.4 2.6L2.6 24.4" />
+</svg>
+</div>
+<script type="text/javascript" src="/js/popup-cta.js"></script>
+
+<nav class="navbar navbar-default blog-nav aj-blog-nav">
+<div class="navbar-header">
+<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#blog-nav-collapse" aria-expanded="false">
+<span class="sr-only">Toggle navigation</span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+</button>
+<a class="navbar-brand" href="/blog">
+<img src="https://coschedule.com/blog/wp-content/themes/CoS4/img/cos-logo-full-color.svg" class="logo" />
+<span class="logo-text">Blog</span>
+</a>
+</div>
+<div class="collapse navbar-collapse" id="blog-nav-collapse">
+
+<div class="blog-nav-main">
+<ul class="nav navbar-nav navbar-left">
+<li class="dropdown nav-dropdown-link">
+<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" title="Categories">Categories <span class="caret"></span></a>
+<ul class="dropdown-menu nav-dropdown-menu">
+<li><a href="/topic/content-marketing/" title="Visit Content Marketing Category">Content Marketing</a></li>
+<li><a href="/topic/social-media/" title="Visit Social Media Category">Social Media</a></li>
+<li><a href="/topic/email-marketing/" title="Visit Email Marketing Category">Email Marketing</a></li>
+<li><a href="/topic/project-management/" title="Visit Project Management Category">Project Management</a></li>
+<li><a href="/topic/workflow/" title="Visit Workflow Category">Marketing Workflow</a></li>
+<li><a href="/topic/analytics/" title="Visit Analytics Category">Analytics</a></li>
+<li><a href="/topic/product/" title="Visit Product Updates Category">Product Updates</a></li>
+<li><a href="/topic/customer-marketing/" title="Visit Product Updates Category">Product Training</a></li>
+<li><a href="/topic/thought-leadership/" title="Visit Thought Leadership Category">Thought Leadership</a></li>
+</ul>
+</li>
+</ul>
+<ul class="nav navbar-nav navbar-right">
+<li class="search aj-search-nav">
+<form action="/" id="searchform" method="get" role="search" class="search-form aj-search-form">
+<input type="text" id="s" name="s" value="" class="search-input" placeholder="Search Blog...">
+<button type="submit" value="Search" id="searchsubmit" class="search-submit">
+<span class="glyphicon glyphicon-search"></span>
+</button>
+
+</form>
+</li>
+</ul>
+</div>
+
+<div class="blog-nav-utility aj-blog-nav-utility">
+<ul class="nav navbar-nav navbar-left">
+<li><a href="/academy/academy-pro" title="Visit CoSchedule Academy" target="_blank">Marketing Academy</a></li>
+<li><a href="/podcast" title="Listen to the CoSchedule Podcast" target="_blank">Podcast</a></li>
+
+<li class="dropdown nav-dropdown-link">
+<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" title="CoSchedule Guides">Guides <span class="caret"></span></a>
+<ul class="dropdown-menu nav-dropdown-menu">
+<li>
+<a href="/guide" title="See our CoSchedule Guides" target="_blank">
+<p><strong>CoSchedule Guide</strong></p>
+<p><em>How to organize all of your marketing with CoSchedule best practices.</em></p>
+</a>
+</li>
+<li>
+<a href="/agile-marketing-guide" title="See the Agile Marketing Guide" target="_blank">
+<p><strong>Agile Marketing Guide</strong></p>
+<p><em>How to implement an agile marketing strategy.</em></p>
+</a>
+</li>
+<li>
+<a href="/marketing-strategy" title="See the Marketing Strategy Guide" target="_blank">
+<p><strong>Marketing Strategy Guide</strong></p>
+<p><em>How to choose, prioritize, plan, and execute projects.</em></p>
+</a>
+</li>
+</ul>
+</li>
+
+<li class="dropdown nav-dropdown-link">
+<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" title="CoSchedule Reports">Reports <span class="caret"></span></a>
+<ul class="dropdown-menu nav-dropdown-menu">
+<li>
+<a href="/marketing-statistics" title="See the State of Marketing Report" target="_blank">
+<p><strong>State of Marketing Report</strong></p>
+<p><em>The strongest predictors of success with goals, strategy, &amp; more.</em></p>
+</a>
+</li>
+<li>
+<a href="/state-of-agile-marketing-report" title="See the State of Agile Marketing Report" target="_blank">
+<p><strong>State of Agile Marketing Report <em>With Agile Sherpas</em></strong></p>
+<p><em>Work management processes that drive the best results.</em></p>
+</a>
+</li>
+</ul>
+</li>
+
+<li class="dropdown nav-dropdown-link">
+<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" title="CoSchedule Books">Books <span class="caret"></span></a>
+<ul class="dropdown-menu nav-dropdown-menu">
+<li>
+<a href="/10xbook" title="See the 10x Marketing Formula Book" target="_blank">
+<p><strong>10x Marketing Formula</strong></p>
+<p><em>Find out how to short-circut the path to jaw-dropping growth.</em></p>
+</a>
+</li>
+<li>
+<a href="/agile-marketing-book" title="See the Agile Marketing Book" target="_blank">
+<p><strong>Get Started with Agile Marketing</strong></p>
+<p><em>Everything you need to know to go agile, right now.</em></p>
+</a>
+</li>
+</ul>
+</li>
+
+<li class="dropdown nav-dropdown-link">
+<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" title="CoSchedule Tools">Tools <span class="caret"></span></a>
+<ul class="dropdown-menu nav-dropdown-menu">
+<li>
+<a href="/headline-analyzer" title="See the Headine Analyzer" target="_blank">
+<p><strong>Headine Analyzer</strong></p>
+<p><em>Write headlines that drive traffic, shares, and search results.</em></p>
+</a>
+</li>
+<li>
+<a href="/social-message-optimizer" title="See the Social Message Optimizer" target="_blank">
+<p><strong>Social Message Optimizer</strong></p>
+<p><em>Create powerful social messages that convert.</em></p>
+</a>
+</li>
+<li>
+<a href="/email-subject-line-tester" title="See the Email Subject Line Tester" target="_blank">
+<p><strong>Email Subject Line Tester</strong></p>
+<p><em>Write email subject lines that drive more conversions.</em></p>
+</a>
+</li>
+</ul>
+</li>
+</ul>
+<ul class="nav navbar-nav navbar-right">
+<li class="aj-nav-cta-default"><a href="/marketing-calendar" title="Learn about CoSchedule">Need a marketing calendar?</a></li>
+<li class="aj-nav-cta-suite hidden"><a href="/marketing-suite" title="Learn about the CoSchedule Marketing Suite">Need a marketing calendar?</a></li>
+</ul>
+</div>
+</div>
+</nav>
+
+<div class="blog-progress-bar aj-progress-bar">
+<div class="blog-progress aj-progress" style="background-color:#8445da"></div>
+</div>
+
+<div class="cos-blog blog-single" itemscope itemtype="http://schema.org/Article">
+<div class="container">
+<div class="post-text-container">
+
+<h1 class="main" itemprop="name">
+How to Write Press Release Headlines That Will Get a Journalist’s Attention
+</h1>
+<div class="blog-author blog-single-author">
+<div class="blog-author-container">
+<div class="blog-author-image">
+<img alt='' src='https://secure.gravatar.com/avatar/74c918ac779b81d2a20b9506db75fa23?s=96&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/74c918ac779b81d2a20b9506db75fa23?s=192&#038;d=mm&#038;r=g 2x' class='avatar avatar-96 photo' height='96' width='96' loading='lazy' /> </div>
+<span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name"><a href="https://coschedule.com/blog/author/lizzie-davey/" rel="author"><h5>Lizzie Davey</h5></a></span></span>
+</div>
+<h6 class="category"><span itemprop="articleSection"><a href="https://coschedule.com/topic/content-marketing/" rel="category tag">Content</a></span></h6>
+</div>
+
+<div class="blog-cta ha-cta aj-ha-cta">
+<img src="https://coschedule.com/blog/wp-content/themes/CoS4/img/headline-analyzer-logo.png" class="ha-logo" alt="Headline Analyzer" />
+<h4 class="no-marg">Headline Analyzer</h4>
+<p>The blog post headline analyzer will score your overall headline quality and rate its ability to result in social shares, increased traffic, and SEO&nbsp;value.</p>
+<a href="/headline-analyzer" target="_blank" title="Check out the Headline Analyzer" class="kmq-blog-post-ha-link">Test every headline before you publish. Try the Headline Analyzer &#187;</a>
+</div>
+
+<div class="blog-single-body" itemprop="articleBody">
+<p><img loading="lazy" class="alignnone wp-image-95043 size-full" src="https://media.coschedule.com/uploads/2021/04/press-release-headlines.png" alt="How to Write Press Release Headlines That Will Get a Journalist’s Attention" width="1360" height="570" srcset="https://media.coschedule.com/uploads/2021/04/press-release-headlines.png 1360w, https://media.coschedule.com/uploads/2021/04/press-release-headlines-300x126.png 300w, https://media.coschedule.com/uploads/2021/04/press-release-headlines-770x323.png 770w, https://media.coschedule.com/uploads/2021/04/press-release-headlines-768x322.png 768w" sizes="(max-width: 1360px) 100vw, 1360px" /></p>
+<p>A press release is great for sharing your latest news with journalists.</p>
+<p>Short, snappy overviews and punchy rundowns give your brand the attention it deserves; however, when it comes to shopping your release around, it’s a numbers game. The more people who read your press release, the higher the chance it will get placed in a good-fit publication.</p>
+<p>There’s no better way to get more eyeballs on your press releases than a well-written headline — it’s the first thing journalists see. If it’s dull and dry, they’re not going to click through to read the full release. In fact, they might even delete it.</p>
+<p>Avoid this by writing headlines that tell journalists and editors what they need to know in a way that’s actually interesting and engaging.</p>
+<p>Here’s how to do that.</p>
+<h2>Get Journalists&#8217; Attention with these Press Release Templates</h2>
+<p>When you submit your press release to news outlets, you need to be sure that your formatting can be easily understood and will not be off-putting to the people you rely on to share it — journalists. These templates will ensure your content finds its way into the hands of journalists, and that they won&#8217;t hesitate to share it.</p>
+
+
+<div class="blog-inline-cta-overlay aj-blog-inline-cta-overlay">
+<svg class="blog-full-screen-cta-close aj-blog-full-screen-cta-close" version="1.1" xmlns="http://www.w3.org/2000/svg" x="0" y="0" viewBox="0 0 27 27" xml:space="preserve">
+<path class="st0" d="M2.6 2.6l21.8 21.8M24.4 2.6L2.6 24.4" />
+</svg>
+</div>
+
+<div class="aj-blog-inline-cta-placeholder aj-blog-inline-cta-download">
+<div class="blog-inline-cta-download aj-inline-download-cta aj-download-cta aj-append-form">
+<div class="blog-inline-cta-img-container">
+<img src="https://media.coschedule.com/uploads/2021/04/Blog_How-to-write-press-release-headlines-that-will-get-a-journalists-attention_Download_image.png" alt="Download Graphic" />
+</div>
+<div class="blog-exit-intent-cta-right">
+<div class="blog-inline-cta-text">
+<h2>Get Your Press Release Templates</h2>
+<h3>Plus, join our email list to stay up to date.</h3>
+</div>
+
+<div class="blog-inline-cta-form aj-blog-inline-cta-form">
+<div class="lead-before aj-lead-before">
+
+<form method="POST" role="form" class="cos-form cos-lead-form aj-lead-form" id="aj-lead-form">
+<div class="alert alert-top aj-alert-top"></div>
+
+<div class="cos-form-group aj-form-group-name">
+<label>Full Name</label>
+<input type="text" class="aj-input aj-input-name kmq-signup-name in-focus" name="name" placeholder="Full name">
+<span class="form-icon"></span>
+<div class="alert aj-alert">&nbsp;</div>
+</div>
+
+<div class="cos-form-group aj-form-group-email">
+<label>Email Address</label>
+<input type="text" class="aj-input aj-input-email kmq-signup-email" name="email" placeholder="Work email address">
+<span class="form-icon"></span>
+<div class="alert aj-alert">&nbsp;</div>
+</div>
+
+<div class="cos-form-group aj-form-group-company">
+<label>Company</label>
+<input type="text" class="aj-input aj-input-company kmq-signup-company" name="company" placeholder="Company Name">
+<span class="form-icon"></span>
+<div class="alert aj-alert">&nbsp;</div>
+</div>
+
+<div class="cos-form-group aj-form-group-website">
+<label>Website URL</label>
+<input type="text" class="aj-input aj-input-website kmq-signup-website" name="website" placeholder="Company website URL">
+<span class="form-icon"></span>
+<div class="alert aj-alert">&nbsp;</div>
+</div>
+<div class="cos-form-footer">
+<input type="hidden" class="aj-input-type hidden" name="type" value="lead-form">
+<input type="hidden" class="aj-input-service hidden" name="service">
+<input class="aj-input-resource hidden" name="resourceurl" />
+<input type="hidden" id="gclid_field" name="gclid_field" class="aj-gclid_field" value="">
+<img class="aj-linkedin-pixel" height="1" width="1" style="display:none;" alt="" src="https://px.ads.linkedin.com/collect/?pid=1295852&conversionId=1098732&fmt=gif" />
+
+<button class="btn btn-default aj-submit" type="submit">Submit</button>
+<p class="terms">By signing up, you agree to CoSchedule’s <a href="/terms" target="_blank" title="See terms of service and privacy policy.">terms of service, end user agreement, and privacy policy</a>; you are 16 years or older; and you will receive information from CoSchedule from which you can opt out at any time.</p>
+</div>
+</form>
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+function setCookie(name, value, days){
+    var date = new Date();
+    date.setTime(date.getTime() + (days*24*60*60*1000));
+    var expires = "; expires=" + date.toGMTString();
+    document.cookie = name + "=" + value + expires + ";path=/";
+}
+function getParam(p){
+    var match = RegExp('[?&]' + p + '=([^&]*)').exec(window.location.search);
+    return match && decodeURIComponent(match[1].replace(/\+/g, ' '));
+}
+var gclid = getParam('gclid');
+if(gclid){
+    var gclsrc = getParam('gclsrc');
+    if(!gclsrc || gclsrc.indexOf('aw') !== -1){
+      setCookie('gclid', gclid, 90);
+  }
+}
+</script>
+<script>
+function readCookie(name) {
+var n = name + "=";
+var cookie = document.cookie.split(';');
+for(var i=0;i < cookie.length;i++) {
+  var c = cookie[i];
+  while (c.charAt(0)==' '){c = c.substring(1,c.length);}
+  if (c.indexOf(n) == 0){return c.substring(n.length,c.length);}
+}
+return null;
+}
+
+window.onload = function() {
+  document.getElementById('gclid_field').value =
+readCookie('gclid');
+}
+</script>
+<script type="text/javascript" src="/js/forms/form-validation.js"></script>
+<script type="text/javascript" src="/js/forms/form-submit-lead.js"></script>
+</div>
+
+<div class="lead-after aj-lead-after">
+<p>Success! Your download should start shortly. Or you can download it manually <a href="https://media.coschedule.com/uploads/2021/04/Press-Release-Templates.zip" title="Download File" target="_blank">here.</a></p>
+</div>
+</div>
+
+<div class="blog-inline-cta-btn-mobile aj-blog-inline-cta-btn-mobile">
+<button class="btn btn-default btn-download aj-btn-download aj-btn-color">Download Now</button>
+</div>
+
+<div class="blog-inline-cta-btn aj-blog-inline-cta-btn">
+<a href="https://media.coschedule.com/uploads/2021/04/Press-Release-Templates.zip" title="Download File" target="_blank"><button class="btn btn-default aj-btn-color">Download Now</button></a>
+</div>
+</div>
+</div>
+</div>
+<style>
+    .blog-inline-cta-img-container {
+        background-color: #ff6662;
+    }
+</style>
+<div class="link-callout">
+<p><a name="toc"></a><strong>Table of Contents</strong></p>
+<ul>
+<li><a href="#step 1">Identify Your Topic</a></li>
+<li><a href="#Step 2">Identify a Unique Angle</a></li>
+<li><a href="#Step 3">Write Tons of Options for Your Headline</a></li>
+<li><a href="#Step 4">Pick a Winner</a></li>
+<li><a href="#Step 5">Write the Rest of Your Press Release</a></li>
+<li><a href="#examples">Examples of the Best Press Release Headlines</a></li>
+</ul>
+</div>
+<p><a name="Step 1"></a></p>
+<h2>Step 1: Identify Your Topic</h2>
+<p>Journalists receive hundreds of press releases each week. Your ultimate goal is to stand out in their overflowing inbox, which is not an easy task — especially if you’re not one-hundred-percent sure what your press release is about.</p>
+<p>Before you even <span style="font-style: italic;">think </span>about putting pen to paper or fingers to keyboard, it’s important to identify your topic.</p>
+<p>Not only will this help you create a succinct headline that gets all the information across in a split-second, but it will help you determine other parts of writing and <span style="text-decoration: underline;"><a href="https://coschedule.com/blog/pr-calendar-template/" target="_blank" rel="noopener noreferrer">distributing a press release</a></span>, like which journalists to target and which publications are a good fit.</p>
+<p>There’s a good chance your press release is about one thing in particular. It might be the launch of a new feature, a virtual event you’re running, or the hiring of a new member of staff.</p>
+<p>NASA’s press release headline centers around the main topic: their upcoming news conference.</p>
+<p><img loading="lazy" class="drop-shadow alignnone" src="https://media.coschedule.com/uploads/2021/04/102e57df-d333-48ad-9263-9985a1bdb35b_pasted20image200.png" alt="NASA to Host News Conference on Discovery Beyond Our Solar System" width="1264" height="466" /></p>
+<p>Your topic should form the foundation of your press release headline. Without it, journalists will be confused and won’t know what message you’re trying to get across.</p>
+<p>If your press release encompasses a number of different topics, it helps to consolidate those — especially when it comes to your headline. This should focus on <span style="font-style: italic;">one </span>element to avoid journalists scratching their heads and automatically resigning your release to their inbox bin.</p>
+<p><span style="font-weight: bold;">Pro tip:</span> start by listing out everything you want to include in your press release and rank them in a hierarchy of importance. One element is likely to be the most important or the most interesting — run with this one in your headline.</p>
+<div class='tm-tweet-clear'></div>
+<div class='tm-click-to-tweet'>
+<div class='tm-ctt-text'><a href='https://twitter.com/share?text=List+out+everything+you+want+to+include+in+your+press+release+and+rank+them+in+a+hierarchy+of+importance.+One+element+is+likely+to+be+the+most+important+or+the+most+interesting+%E2%80%94+run+with+this+one+in+your+headline.&#038;via=coschedule&#038;related=coschedule&#038;url=https://coschedule.com/blog/press-release-headlines/' target='_blank'>List out everything you want to include in your press release and rank them in a hierarchy of importance. One element is likely to be the most important or the most interesting — run with this one in your headline.</a></div>
+<p><a href='https://twitter.com/share?text=List+out+everything+you+want+to+include+in+your+press+release+and+rank+them+in+a+hierarchy+of+importance.+One+element+is+likely+to+be+the+most+important+or+the+most+interesting+%E2%80%94+run+with+this+one+in+your+headline.&#038;via=coschedule&#038;related=coschedule&#038;url=https://coschedule.com/blog/press-release-headlines/' target='_blank' class='tm-ctt-btn'>Click To Tweet</a></p>
+<div class='tm-ctt-tip'></div>
+</div>
+<p>The easiest way to do this is to simply ask yourself, “What am I writing about?” When you can answer that, you can move on to the next step.</p>
+<div class="link-callout"><strong><a href="#toc">Back to the Top</a></strong></div>
+<p><a name="Step 2"></a></p>
+<h2>Step 2: Identify a Unique Angle</h2>
+<p>Every bit of news is exciting for you because it’s <span style="font-style: italic;">your </span>business, but that doesn’t mean it will be immediately exciting for journalists and the general public. This is where your headline swoops in to bridge the gap. The idea is to identify a unique angle you can run with that benefits both your business and<span style="font-style: italic;"> </span>gives something back to the audience.</p>
+<p><img loading="lazy" class="alignnone wp-image-95044 size-full" src="https://media.coschedule.com/uploads/2021/04/press-release-headline-questions.png" alt="Press Release Headlines, &quot;Ask yourself the following questions:&quot;" width="1360" height="640" srcset="https://media.coschedule.com/uploads/2021/04/press-release-headline-questions.png 1360w, https://media.coschedule.com/uploads/2021/04/press-release-headline-questions-300x141.png 300w, https://media.coschedule.com/uploads/2021/04/press-release-headline-questions-770x362.png 770w, https://media.coschedule.com/uploads/2021/04/press-release-headline-questions-768x361.png 768w" sizes="(max-width: 1360px) 100vw, 1360px" /></p>
+<p>It’s difficult to find a completely unique angle to promote — especially in competitive industries that always have their fingers on the pulse.</p>
+<p>Take some time to consider what makes <span style="font-style: italic;">your </span>story stand out. Is it because your brand is the oldest in the industry? Is it because you’ve interviewed a well-known public figure about an otherwise common topic?</p>
+<p>This press release from Dunkin’ Donuts stands out because they’re the first brand to use this specific feature.</p>
+<p><img loading="lazy" class="drop-shadow alignnone" src="https://media.coschedule.com/uploads/2021/04/8e437225-5abd-4762-9120-033b892b702d_pasted20image200.png" alt="From Car to coffee Quicker Than Ever: Dunkin' Donuts is First Brand to Launch Waze's &quot;Order Ahead&quot; Feature" width="834" height="432" /></p>
+<p>How can you summarize that story in one headline and one paragraph?</p>
+<p>This is where it gets tricky.</p>
+<p>Trying to distill your main message into a single sentence is like trying to stuff a round peg in a square hole. A good way to look at it is to think about what information readers need to know right away.<span style="font-style: italic;"> </span></p>
+<p>This press release headline promotes a new study and picks out a key finding from the study that readers will find particularly compelling. <img src="undefined" alt="" /></p>
+<div class="link-callout"><strong><a href="#toc">Back to the Top</a></strong></div>
+<p><a name="Step 3"></a></p>
+<h2>Step 3: Write Tons of Options for Your Headline</h2>
+<p>No one ever writes their best headline the first time around.</p>
+<p>In fact, it can take 20 or more tries until you start getting anywhere remotely close to something that will grab attention and pique journalists’ interests.</p>
+<div class='tm-tweet-clear'></div>
+<div class='tm-click-to-tweet'>
+<div class='tm-ctt-text'><a href='https://twitter.com/share?text=It+can+take+20+or+more+tries+until+you+start+getting+anywhere+remotely+close+to+something+that+will+grab+attention+and+pique+journalists%E2%80%99+interests.&#038;via=coschedule&#038;related=coschedule&#038;url=https://coschedule.com/blog/press-release-headlines/' target='_blank'>It can take 20 or more tries until you start getting anywhere remotely close to something that will grab attention and pique journalists’ interests.</a></div>
+<p><a href='https://twitter.com/share?text=It+can+take+20+or+more+tries+until+you+start+getting+anywhere+remotely+close+to+something+that+will+grab+attention+and+pique+journalists%E2%80%99+interests.&#038;via=coschedule&#038;related=coschedule&#038;url=https://coschedule.com/blog/press-release-headlines/' target='_blank' class='tm-ctt-btn'>Click To Tweet</a></p>
+<div class='tm-ctt-tip'></div>
+</div>
+<p>Open up a document and start typing.</p>
+<p>Jot down anything that comes to mind, but remember to incorporate some of these headline writing tactics:</p>
+<ul>
+<li><span style="font-weight: bold;">Infuse your headlines with emotional language:</span> Use power words to encourage a specific feeling and drive action.</li>
+<li><span style="font-weight: bold;">Pay attention to structure and tone:</span> Make sure your headlines make sense and are imbued with the right tone. It also helps to read them aloud.</li>
+<li><span style="font-weight: bold;">Adhere to an AP style: </span>Keep on journalists’ good sides by sticking to the grammar style in which they’re most familiar.</li>
+</ul>
+<p>Once you’ve got a huge list of headlines to work with, you can start putting them through <span style="text-decoration: underline;"><a href="https://coschedule.com/headline-analyzer" target="_blank" rel="noopener noreferrer">CoSchedule’s Headline Analyzer Studio</a></span>.</p>
+<p>Doing this will give you quick insights into the <span style="text-decoration: underline;"><a href="https://coschedule.com/blog/how-to-write-the-best-headlines-that-will-increase-traffic/" target="_blank" rel="noopener noreferrer">headlines that will work best</a></span>. The tool gives you a score out of 100 and marks you down for using common, unengaging vocabulary.</p>
+<div class="link-callout"><strong>Recommended Reading:</strong> <a href="https://coschedule.com/blog/how-to-boost-your-score-in-headline-studio/" target="_blank" rel="noopener noreferrer">How to Boost Your Headline Score Using Premium Features in Headline Studio</a></div>
+<p>This is what it looks like in action:</p>
+<p><img loading="lazy" class="drop-shadow alignnone" src="https://media.coschedule.com/uploads/2021/04/9a8f549a-bac5-4e75-9440-10bcbdad71a1_Screenshot202021-02-0820at2010.35.45.png" alt="Headline Analyzer Studio: iPad Launch Day Headlines" width="1600" height="856" /></p>
+<p>You’re able to quickly compare the scores of each headline, side-by-side, to see which one comes out on top.</p>
+<p><img loading="lazy" class="drop-shadow alignnone" src="https://media.coschedule.com/uploads/2021/04/5a4b5b63-a003-4c89-b9c0-b4135586800b_Screenshot202021-02-0820at2010.36.15.png" alt="Headline Analyzer Studio Word Balance" width="1558" height="1312" /></p>
+<p>You’ll then be able to get a breakdown of each headline, including the number of emotional and power words included. Here, at CoSchedule, we try to shoot for scores over 70.</p>
+<div class="link-callout"><strong>Recommended Reading:</strong> <a href="https://coschedule.com/blog/emotional-headlines/" target="_blank" rel="noopener noreferrer">How to Write Emotional Headlines That Get More Shares</a></div>
+<p>Play around with your headline ideas and try to create a headline that gets the highest score possible.</p>
+<div class="link-callout"><strong><a href="#toc">Back to the Top</a></strong></div>
+<p><a name="Step 4"></a></p>
+<h2>Step 4: Pick a Winner</h2>
+<p>At this point, you should have some strong headline contenders.</p>
+<p>Not only will you have a document packed full of headlines focused on the right topic, you’ll also have a better understanding of why<span style="font-style: italic;"> </span>people might be interested in your press release.</p>
+<p>Finally, after running your best set of headlines through CoSchedule’s Headline Analyzer Studio, you’ll have several frontrunners that have returned a good score and have a decent amount of emotional, uncommon, and power words.</p>
+<p>Now it’s time to pick your winner.</p>
+<p>Wait a second though. You shouldn’t just go straight for the headline with the highest score. You want to choose one that has a healthy mix of emotional words and<span style="font-style: italic;"> </span>conveys the main topic and message of your press release.</p>
+<div class="link-callout"><strong><a href="#toc">Back to the Top</a></strong></div>
+<p><a name="Step 5"></a></p>
+<h2>Step 5: Write the Rest of Your Press Release</h2>
+<p>Your headline will now drive the rest of your press release.</p>
+<p>Once you’ve nailed the topic and considered how you’ll make your release stand out, you can start crafting the body of it.</p>
+<p>Keep your release structured and ensure each paragraph continues to hammer home the topic and the end goal. While emotional and power words don’t have as much of a place in the body of a press release, you can still use creative language to get your point across.</p>
+<p>Check out our <span style="text-decoration: underline;"><a href="https://coschedule.com/blog/how-to-write-press-releases-examples-templates/" target="_blank" rel="noopener noreferrer">guide to writing press releases</a></span>, which features several templates you can plug and play with right away.</p>
+<div class="link-callout"><strong><a href="#toc">Back to the Top</a></strong></div>
+<p><a name="examples"></a></p>
+<h2>Examples of the Best Press Release Headlines</h2>
+<p>We’ve pulled some real-life <span style="text-decoration: underline;"><a href="https://coschedule.com/blog/public-relations-examples/" target="_blank" rel="noopener noreferrer">press release examples</a></span> to show you what’s possible with a good headline.</p>
+<h3>1. DASCOIN launch first fashion blockchain project on top of the Eiffel Tower</h3>
+<p><img loading="lazy" class="drop-shadow alignnone" src="https://media.coschedule.com/uploads/2021/04/6915c2d0-e323-4e5d-8878-5eb917832b7d_pasted20image200.png" alt="DASCOIN launch first fashion blockchain project on top of the Eiffel Tower" width="648" height="421" /></p>
+<p>There are many things that make this headline stand out. Not only is DASCOIN the “first” to do something — which makes sure their story stands out — but it includes a quirky, but familiar, location.</p>
+<p>Who doesn’t<span style="font-style: italic;"> </span>want to read about a project launching at the top of the Eiffel Tower?</p>
+<h3>2. Luxury Fitness Brand is Bringing Never Before Seen Concepts to the Industry This Holiday Season</h3>
+<h2><img loading="lazy" class="drop-shadow alignnone" src="https://media.coschedule.com/uploads/2021/04/f7a7a184-6700-45e2-b4e3-2e345ca760d6_Screenshot202021-02-0820at2010.53.38.png" alt="Luxury Fitness Brand Is Bringing Never Before Seen Concepts to the Industry This Holiday Season" width="1600" height="417" /></h2>
+<p>This headline is timely in that it’s about a specific time of the year, but it also piques curiosity by promising something “never seen before”. Journalists will likely want to know what those unique concepts are and click through to have a look.</p>
+<h3>3. U.S. Median Home Asking Prices Hit a New High, Up 10% From Last Year</h3>
+<p><img loading="lazy" class="drop-shadow alignnone" src="https://media.coschedule.com/uploads/2021/04/c6f8c0c4-d6a5-4257-9e8a-c1e9b07cfac6_Screenshot202021-02-0820at2010.55.45.png" alt="U.S. Median Home Asking Prices Hit a New High, Up 10% From Last Year" width="1418" height="490" /></p>
+<p>Using numbers or percentages in headlines can give them the extra spice they need to stand out in an inbox full of words.</p>
+<h3>4. Myanmar: Internet blackout a ‘heinous and reckless decision’</h3>
+<p><img loading="lazy" class="drop-shadow alignnone" src="https://media.coschedule.com/uploads/2021/04/ce3cdbbd-104c-455e-9a92-bb90dd8cb905_Screenshot202021-02-0820at2012.36.58.png" alt="Myanmar: Internet blackout a 'heinous and reckless decision'" width="1184" height="554" /></p>
+<p>This press release headline combines incredibly emotive words with a quote from the release itself. The powerful wording choices will, no doubt, compel journalists to find out more.</p>
+<h3>5. While Many Companies Are Laying Off Employees, Raleigh-Based Software Company Persistence AI is Hiring Hundreds for Its New Product</h3>
+<p><img loading="lazy" class="drop-shadow alignnone" src="https://media.coschedule.com/uploads/2021/04/d46c0e45-0205-49fd-aa48-677e1c3f9fbc_Screenshot202021-02-0820at2013.40.09.png" alt="While many companies are laying off employees, Raleigh-based software company Persistence AI is hiring hundreds for its new product " width="1600" height="569" /></p>
+<p>While this is a pretty lengthy press release headline, it does the job. It tells readers exactly what the release is about by using simple language that’s also relevant for the current times.</p>
+<h3>6. 7taps to Turn Corporate Learning into Instagramming, Bringing an Unprecedented 99% Course-Completion Rate</h3>
+<p><img loading="lazy" class="drop-shadow alignnone" src="https://media.coschedule.com/uploads/2021/04/f5fa4f10-d068-4381-abae-69c76c269689_Screenshot202021-02-0820at2014.02.42.png" alt="7taps to turn corporate learning into Instagramming, bringing an unprecedented 99% course-completion rate" width="1600" height="522" /></p>
+<p>This headline uses both numbers (in a percentage format) and emotional language, like the word “Unprecedented”. It begins by sharing what the company is doing and what the outcome is from doing it.</p>
+<h2>Make Sure Your Press Releases Are Read By Using Irresistible Headlines</h2>
+<p>Press releases are an important opportunity for your business. They have the chance to propel your brand and its current news into the limelight — generating more eyeballs, more traffic and, ultimately, more sales.</p>
+<div class='tm-tweet-clear'></div>
+<div class='tm-click-to-tweet'>
+<div class='tm-ctt-text'><a href='https://twitter.com/share?text=Press+releases+have+the+chance+to+propel+your+brand+and+its+current+news+into+the+limelight+%E2%80%94+generating+more+eyeballs%2C+more+traffic+and%2C+ultimately%2C+more+sales.&#038;via=coschedule&#038;related=coschedule&#038;url=https://coschedule.com/blog/press-release-headlines/' target='_blank'>Press releases have the chance to propel your brand and its current news into the limelight — generating more eyeballs, more traffic and, ultimately, more sales.</a></div>
+<p><a href='https://twitter.com/share?text=Press+releases+have+the+chance+to+propel+your+brand+and+its+current+news+into+the+limelight+%E2%80%94+generating+more+eyeballs%2C+more+traffic+and%2C+ultimately%2C+more+sales.&#038;via=coschedule&#038;related=coschedule&#038;url=https://coschedule.com/blog/press-release-headlines/' target='_blank' class='tm-ctt-btn'>Click To Tweet</a></p>
+<div class='tm-ctt-tip'></div>
+</div>
+<p>In order to spread your press releases far and wide, you have to get the attention of journalists in the first place. This means creating irresistible press release headlines that people can’t help but click.</p>
+<p>Use the step-by-step guide we’ve laid out here, along with CoSchedule’s Headline Analyzer Studio, to craft informative yet compelling headlines that will actually get read.</p>
+<div class="link-callout"><strong>Recommended Reading:</strong> <a href="https://coschedule.com/blog/how-to-write-the-best-headlines-that-will-increase-traffic/" target="_blank" rel="noopener noreferrer">How To Write Headlines That Drive Traffic, Shares, And Search Results</a></div>
+<p class="date"><span itemprop="datePublished">April 14, 2021</span></p>
+</div>
+
+<div class="blog-single-body-author aj-blog-single-body-author">
+<h5>About the Author</h5>
+<hr>
+<span itemprop="author" itemscope itemtype="http://schema.org/Person">
+<span itemprop="name">
+<a href="https://coschedule.com/blog/author/lizzie-davey/" rel="author"><h3>Lizzie Davey</h3></a>
+</span>
+</span>
+<a class="icon" target="_blank" href="https://twitter.com/"><span class="icon-twitter2"></span></a>
+<p></p>
+</div>
+</div>
+
+<div class="blog-back-to-top aj-back-to-top"><span class="glyphicon glyphicon-chevron-up"></span></div>
+</div>
+
+<div class="blog-single-related-post-group">
+<div class="container">
+<h3 class="center">We also think you'll like...</h3>
+<div class="col-md-4">
+<a href="https://coschedule.com/blog/trigger-words/" title="201 Trigger Words That Will Make Your Headlines More Engaging" class="blog-single-related-post">
+<img src="https://media.coschedule.com/uploads/2021/04/Blog_201-trigger-words-header-1.gif" class="img-responsive" alt="201 Trigger Words That Will Make Your Headlines More Engaging" />
+<h4>201 Trigger Words That Will Make Your Headlines More Engaging</h4>
+<p><p>With so much content being pumped out every day, it’s easy to come across the same old boring headline time and time again. When you’re up against a huge amount [&hellip;]</p>
+</p>
+
+<div class="blog-author">
+<div class="blog-author-image">
+<img alt='' src='https://secure.gravatar.com/avatar/74c918ac779b81d2a20b9506db75fa23?s=96&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/74c918ac779b81d2a20b9506db75fa23?s=192&#038;d=mm&#038;r=g 2x' class='avatar avatar-96 photo' height='96' width='96' loading='lazy' /> </div>
+<h5>Lizzie Davey</h5>
+<p>April 12, 2021</span></p>
+ </div>
+</a>
+</div>
+<div class="col-md-4">
+<a href="https://coschedule.com/blog/content-publishing/" title="How to Create a Content Publishing Strategy That Gets Results" class="blog-single-related-post">
+<img src="https://media.coschedule.com/uploads/2021/04/Blog_How-to-create-a-content-publishing-strategy-that-gets-results_header.png" class="img-responsive" alt="How to Create a Content Publishing Strategy That Gets Results" />
+<h4>How to Create a Content Publishing Strategy That Gets Results</h4>
+<p><p>Everyone consumes some sort of content every day. It&#8217;s like rain, taxes, and death — we can&#8217;t escape it, even if we wanted to. Content is what keeps us in [&hellip;]</p>
+</p>
+
+<div class="blog-author">
+<div class="blog-author-image">
+<img alt='' src='https://secure.gravatar.com/avatar/838c2ebe1426241a67c2a9edea7cd43c?s=96&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/838c2ebe1426241a67c2a9edea7cd43c?s=192&#038;d=mm&#038;r=g 2x' class='avatar avatar-96 photo' height='96' width='96' loading='lazy' /> </div>
+<h5>Mark Quadros</h5>
+<p>April 7, 2021</span></p>
+</div>
+</a>
+</div>
+<div class="col-md-4">
+<a href="https://coschedule.com/blog/types-of-headlines/" title="17 Types of Headlines Every Writer Needs to Know" class="blog-single-related-post">
+<img src="https://media.coschedule.com/uploads/2021/04/Blog_17-types-of-headlines-every-writer-needs-to-know_header.png" class="img-responsive" alt="17 Types of Headlines Every Writer Needs to Know" />
+<h4>17 Types of Headlines Every Writer Needs to Know</h4>
+<p><p>You’d think that a headline’s short length makes it easy to write, but I bet you know from experience how tricky it can be to craft one. Whether you consider [&hellip;]</p>
+</p>
+
+<div class="blog-author">
+<div class="blog-author-image">
+<img alt='' src='https://secure.gravatar.com/avatar/0a2e71a42931ba0ebd25dbdec3d370ea?s=96&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/0a2e71a42931ba0ebd25dbdec3d370ea?s=192&#038;d=mm&#038;r=g 2x' class='avatar avatar-96 photo' height='96' width='96' loading='lazy' /> </div>
+<h5>Melissa King</h5>
+<p>April 5, 2021</span></p>
+</div>
+</a>
+</div>
+</div>
+</div>
+
+
+
+
+<div class="blog-cta blog-cta-download blog-bottom-cta aj-bottom-cta aj-download-cta" style="background-color:#fafabe">
+<div class="blog-cta-container">
+<img src="https://media.coschedule.com/uploads/2021/04/Blog_How-to-write-press-release-headlines-that-will-get-a-journalists-attention_Download_image.png" alt="Download Graphic" class="blog-bottom-cta-img blog-bottom-download-cta-img" />
+<div class="blog-cta-text-container">
+<h2>Get Your Press Release Templates</h2>
+<button class="btn-default btn-download aj-btn-download aj-btn-color kmq-blog-content-upgrade-bottom-banner-cta">Download Now</button>
+</div> 
+
+</div>
+<svg class="blog-bottom-cta-close aj-blog-bottom-cta-close" version="1.1" xmlns="http://www.w3.org/2000/svg" x="0" y="0" viewBox="0 0 27 27" xml:space="preserve">
+<path class="st0" d="M2.6 2.6l21.8 21.8M24.4 2.6L2.6 24.4" />
+</svg>
+</div>
+
+
+<div class="blog-cta blog-cta-headline-studio blog-bottom-cta aj-bottom-cta aj-product-cta aj-product-cta-hs">
+<div class="blog-cta-container">
+<img src="https://coschedule.com/blog/wp-content/themes/CoS4/img/blog-product-cta/hs-bottom-product-cta.png" alt="Headline Studio by CoSchedule" class="blog-bottom-cta-img blog-bottom-product-cta-img aj-blog-bottom-cta-img" />
+<img src="https://coschedule.com/blog/wp-content/themes/CoS4/img/blog-product-cta/hs-full-screen-product-cta.png" alt="Headline Studio by CoSchedule" class="blog-bottom-cta-img full-screen-cta-img aj-full-screen-cta-img" />
+<div class="blog-cta-text-container">
+<div class="blog-bottom-cta-product-text aj-blog-bottom-cta-product-text">
+<h2>Score your headlines. Get helpful, headline-boosting suggestions. Drive more traffic.</h2>
+<a href="https://coschedule.com/headline-studio?utm_source=blog&utm_medium=bottom-banner&utm_campaign=blog-plus-two&utm_content=headline-studio" title="Learn more about Headline Studio by CoSchedule">
+<button class="btn-default btn-download kmq-blog-product-cta">Try Headline Studio</button>
+</a>
+</div>
+<div class="blog-full-screen-cta-product-text aj-blog-full-screen-cta-product-text">
+<h2>Write headlines that hook your readers.</h2>
+<h3>Try CoSchedule’s Headline Studio & get real-time feedback on your headlines. Find attention-grabbing words, drive more traffic, & eliminate writers’ block for good.</h3>
+<a href="https://coschedule.com/headline-studio?utm_source=blog&utm_medium=full-screen-takeover&utm_campaign=blog-plus-two&utm_content=headline-studio" title="Learn more about Headline Studio by CoSchedule">
+<button class="btn-default btn-download kmq-blog-product-cta">Try It Free</button>
+</a>
+</div>
+<div class="blog-exit-intent-cta-product-text aj-blog-exit-intent-cta-product-text">
+<h2>Upgrade Your Headlines</h2>
+<h3>Take 30 seconds to sign up for CoSchedule’s Headline Studio.</h3>
+<a href="https://coschedule.com/headline-studio?utm_source=blog&utm_medium=exit-intent&utm_campaign=blog-plus-two&utm_content=headline-studio" title="Learn more about Headline Studio by CoSchedule">
+<button class="btn-default btn-download kmq-blog-product-cta">Write Better Headlines Today</button>
+</a>
+</div>
+</div> 
+</div>
+<svg class="blog-bottom-cta-close aj-blog-bottom-cta-close" version="1.1" xmlns="http://www.w3.org/2000/svg" x="0" y="0" viewBox="0 0 27 27" xml:space="preserve">
+<path class="st0" d="M2.6 2.6l21.8 21.8M24.4 2.6L2.6 24.4" />
+</svg>
+</div>
+
+<div class="blog-cta blog-cta-academy blog-bottom-cta aj-bottom-cta aj-product-cta aj-product-cta-acad">
+<div class="blog-cta-container">
+<img src="https://coschedule.com/blog/wp-content/themes/CoS4/img/blog-product-cta/academy-bottom-product-cta.png" alt="CoSchedule Academy" class="blog-bottom-cta-img blog-bottom-product-cta-img aj-blog-bottom-cta-img" />
+<img src="https://coschedule.com/blog/wp-content/themes/CoS4/img/blog-product-cta/academy-full-screen-product-cta.png" alt="CoSchedule Academy" class="blog-bottom-cta-img full-screen-cta-img aj-full-screen-cta-img" />
+<div class="blog-cta-text-container">
+<div class="blog-bottom-cta-product-text aj-blog-bottom-cta-product-text">
+<h2>Improve your marketing with on-demand courses designed to give you actionable, results-driven content.</h2>
+<a href="https://coschedule.com/academy/academy-pro/?utm_source=blog&utm_medium=bottom-banner&utm_campaign=blog-plus-two&utm_content=academy-pro" title="Learn more about CoSchedule Academy">
+<button class="btn-default btn-download kmq-blog-product-cta">Get Access to CoSchedule Academy</button>
+</a>
+</div>
+<div class="blog-full-screen-cta-product-text aj-blog-full-screen-cta-product-text">
+<h2>Learn on your schedule</h2>
+<h3>You’ll get hours of training and practical how-tos to improve your marketing. All at your own pace.</h3>
+<a href="https://coschedule.com/academy/academy-pro/?utm_source=blog&utm_medium=full-screen-takeover&utm_campaign=blog-plus-two&utm_content=academy-pro" title="Learn more about CoSchedule Academy">
+<button class="btn-default btn-download kmq-blog-product-cta">Get Access to CoSchedule Academy</button>
+</a>
+</div>
+<div class="blog-exit-intent-cta-product-text aj-blog-exit-intent-cta-product-text">
+<h2>Before you go...</h2>
+<h3>Do you want access to 100s of marketing videos, resources, & best practices? Join CoSchedule Academy for on-demand, premium content.</h3>
+<a href="https://coschedule.com/academy/academy-pro/?utm_source=blog&utm_medium=exit-intent&utm_campaign=blog-plus-two&utm_content=academy-pro" title="Learn more about CoSchedule Academy">
+<button class="btn-default btn-download kmq-blog-product-cta">Get Access to CoSchedule Academy</button>
+</a>
+</div>
+</div> 
+</div>
+<svg class="blog-bottom-cta-close aj-blog-bottom-cta-close" version="1.1" xmlns="http://www.w3.org/2000/svg" x="0" y="0" viewBox="0 0 27 27" xml:space="preserve">
+<path class="st0" d="M2.6 2.6l21.8 21.8M24.4 2.6L2.6 24.4" />
+</svg>
+</div>
+
+<div class="blog-cta blog-cta-trial blog-bottom-cta aj-bottom-cta aj-product-cta aj-product-cta-cos">
+
+<div class="blog-cta-trial aj-blog-cta-trial">
+<div class="blog-cta-container">
+<img src="https://coschedule.com/blog/wp-content/themes/CoS4/img/blog-product-cta/cos-bottom-product-cta.png" alt="CoSchedule Calendar" class="blog-bottom-cta-img blog-bottom-product-cta-img aj-blog-bottom-cta-img" />
+<img src="https://coschedule.com/blog/wp-content/themes/CoS4/img/blog-product-cta/cos-full-screen-product-cta.png" alt="CoSchedule Calendar" class="blog-bottom-cta-img full-screen-cta-img aj-full-screen-cta-img" />
+<div class="blog-cta-text-container">
+<div class="blog-bottom-cta-product-text aj-blog-bottom-cta-product-text">
+<h2>Organize all of your marketing in one place with Marketing Calendar software from CoSchedule.</h2>
+<a href="https://coschedule.com/signup?utm_source=blog&utm_medium=bottom-banner&utm_campaign=blog-plus-two&utm_content=trial" title="Start a trial of CoSchedule.">
+<button class="btn-default btn-download kmq-blog-product-cta">Start A Trial</button>
+ </a>
+</div>
+<div class="blog-full-screen-cta-product-text aj-blog-full-screen-cta-product-text">
+<h2>Ditch the spreadsheets for good.</h2>
+<h3>Finally see all of your marketing in one place with Marketing Calendar software from CoSchedule.</h3>
+<a href=https://coschedule.com/signup?utm_source=blog&utm_medium=full-screen-takeover&utm_campaign=blog-plus-two&utm_content=trial" title="Start a trial of CoSchedule.">
+<button class="btn-default btn-download kmq-blog-product-cta">Start A Free Trial</button>
+</a>
+</div>
+<div class="blog-exit-intent-cta-product-text aj-blog-exit-intent-cta-product-text">
+<h2>There’s still time to organize your marketing.</h2>
+<h3>Bring together your emails, blog posts, events, and the rest of your marketing with Marketing Calendar software from CoSchedule.</h3>
+<a href=https://coschedule.com/signup?utm_source=blog&utm_medium=exit-intent&utm_campaign=blog-plus-two&utm_content=trial" title="Start a trial of CoSchedule.">
+<button class="btn-default btn-download kmq-blog-product-cta">Start A Free Trial</button>
+</a>
+</div>
+</div> 
+</div>
+<svg class="blog-bottom-cta-close aj-blog-bottom-cta-close" version="1.1" xmlns="http://www.w3.org/2000/svg" x="0" y="0" viewBox="0 0 27 27" xml:space="preserve">
+<path class="st0" d="M2.6 2.6l21.8 21.8M24.4 2.6L2.6 24.4" />
+</svg>
+</div>
+
+<div class="blog-cta-demo aj-blog-cta-demo">
+<div class="blog-cta-container">
+<img src="https://coschedule.com/blog/wp-content/themes/CoS4/img/blog-product-cta/cos-bottom-product-cta.png" alt="Marketing Suite by CoSchedule" class="blog-bottom-cta-img blog-bottom-product-cta-img aj-blog-bottom-cta-img" />
+<img src="https://coschedule.com/blog/wp-content/themes/CoS4/img/blog-product-cta/cos-full-screen-product-cta.png" alt="Marketing Suite by CoSchedule" class="blog-bottom-cta-img full-screen-cta-img aj-full-screen-cta-img" />
+<div class="blog-cta-text-container">
+<div class="blog-bottom-cta-product-text aj-blog-bottom-cta-product-text">
+<h2>Organize all of your marketing in one place with Marketing Calendar software from CoSchedule.</h2>
+<a href="https://coschedule.com/product-demo?utm_source=blog&utm_medium=bottom-banner&utm_campaign=blog-plus-two&utm_content=demo" title="Request a product demo of CoSchedule.">
+<button class="btn-default btn-download kmq-blog-product-cta">Schedule A Demo</button>
+</a>
+</div>
+<div class="blog-full-screen-cta-product-text aj-blog-full-screen-cta-product-text">
+<h2>Ditch the spreadsheets for good.</h2>
+<h3>Finally see all of your marketing in one place with Marketing Calendar software from CoSchedule.</h3>
+<a href="https://coschedule.com/product-demo?utm_source=blog&utm_medium=full-screen-takeover&utm_campaign=blog-plus-two&utm_content=demo" title="Request a product demo of CoSchedule.">
+<button class="btn-default btn-download kmq-blog-product-cta">Schedule A Demo</button>
+</a>
+</div>
+<div class="blog-exit-intent-cta-product-text aj-blog-exit-intent-cta-product-text">
+<h2>There’s still time to organize your marketing.</h2>
+<h3>Bring together your emails, blog posts, events, and the rest of your marketing with Marketing Calendar software from CoSchedule.</h3>
+ <a href="https://coschedule.com/product-demo?utm_source=blog&utm_medium=exit-intent&utm_campaign=blog-plus-two&utm_content=demo" title="Request a product demo of CoSchedule.">
+<button class="btn-default btn-download kmq-blog-product-cta">Schedule A Demo</button>
+</a>
+</div>
+</div> 
+</div>
+<svg class="blog-bottom-cta-close aj-blog-bottom-cta-close" version="1.1" xmlns="http://www.w3.org/2000/svg" x="0" y="0" viewBox="0 0 27 27" xml:space="preserve">
+<path class="st0" d="M2.6 2.6l21.8 21.8M24.4 2.6L2.6 24.4" />
+</svg>
+</div>
+</div>
+<script>
+
+    $(document).ready(function() {
+
+        // Set download button color & download file
+         // new
+            $('.aj-btn-color').css('background-color', '#8445da');
+            $('.aj-submit').css('background-color', '#8445da').html('Download Now');
+            $('.aj-input-resource').val('https://media.coschedule.com/uploads/2021/04/Press-Release-Templates.zip');
+        
+                $.jStorage.set("productCTA", 'calendar');
+        
+    });
+
+</script>
+<script type="text/javascript" src="https://coschedule.com/blog/wp-content/themes/CoS4/js/cos-blog-cta-shortcode.js"></script>
+</div>
+<div class="clear"></div>
+
+<div class="blog-footer">
+<div class="container">
+<ul class="f-left">
+<li><a href="https://coschedule.com" target="_blank" title="CoSchedule Homepage" class="kmq-blog-footer-blog-home-link"><img src="https://coschedule.com/blog/wp-content/themes/CoS4/img/cos-logo-icon.svg" class="logo" /></a></li>
+<li><a rel="alternate" type="application/rss+xml" title="RSS" title="RSS Feed" href="/feed/" class="kmq-blog-footer-rss-link">RSS Feed</a></li>
+<li><a href="/" title="Go to the CoSchedule homepage" class="kmq-blog-footer-coschedule-home-link">Looking for a marketing calendar?</a></li>
+</ul>
+<ul class="no-marg">
+<li><h5>Tools</h5></li>
+<li><a href="/headline-analyzer" title="Write Headlines That Drive Traffic, Shares, And Search Results" target="_blank" class="kmq-blog-footer-headline-analyzer-link">Headline Analyzer</a></li>
+<li><a href="/email-subject-line-tester" title="Write Email Subject Lines That Drive More Opens, More Clicks, and More Conversions" target="_blank" class="kmq-blog-footer-eslt-link">Email Subject Line&nbsp;Tester</a></li>
+<li><a href="/social-message-optimizer" title="Create Powerful Social Messages That Convert" target="_blank" class="kmq-blog-footer-smo-link">Social Message Optimizer</a></li>
+<li><a href="/marketing-terms-definitions/" title="Marketing Dictionary" target="_blank">Marketing Dictionary</a></li>
+<li>&nbsp;</li>
+</ul>
+<ul class="more-marg">
+<li><h5>Guides</h5></li>
+<li><a href="/guide" title="How to organize all of your marketing with CoSchedule best practices." target="_blank" class="kmq-blog-footer-cos-guide-link">CoSchedule Guide</a></li>
+<li><a href="/agile-marketing-guide" title="Agile Marketing Guide" target="_blank" class="kmq-blog-footer-guide-link">Agile Marketing Guide</a></li>
+<li><a href="/marketing-strategy" title="How to Create A Marketing Strategy That Will Skyrocket Your Results By 9,360%" target="_blank" class="kmq-blog-footer-guide-link">Marketing Strategy Guide</a></li>
+<li>&nbsp;</li>
+<li><h5>Reports</h5></li>
+<li><a href="/marketing-statistics" title="The Marketing Statistics You Need To Know To Be Successful In 2018" target="_blank" class="kmq-blog-footer-marketing-statistics-link">State of Marketing Report</a></li>
+<li><a href="/state-of-agile-marketing-report" title="State of Agile Marketing Report" target="_blank">State of Agile Marketing Report</a></li>
+</ul>
+<ul class="more-marg">
+<li><h5>Resources</h5></li>
+<li><a href="/academy/academy-pro" title="Your all-in-one hub for premium, on-demand courses specifically designed for marketers ready to up their A game." target="_blank" class="kmq-blog-footer-academy-link">Marketing Academy</a></li>
+<li><a href="/podcast" title="Go To The Actionable Marketing Podcast" target="_blank" class="kmq-blog-footer-podcast-link">Actionable Marketing&nbsp;Podcast</a></li>
+<li>&nbsp;</li>
+<li><h5>Books</h5></li>
+<li><a href="/10xbook" title="10x Book" target="_blank">10x Marketing Formula</a></li>
+<li><a href="/agile-marketing-book" title="Agile Marketing Book" target="_blank">Get Started With Agile Marketing</a></li>
+</ul>
+<div class="clear"></div>
+<div class="copyright">
+<p>&copy; 2021, CoSchedule - <a href="https://coschedule.com/terms" target="_blank">Terms of Service</a>, <a href="https://coschedule.com/privacy" target="_blank">Privacy Policy</a></p>
+<div class="social-icons">
+<a href="https://facebook.com/coschedule" target="_blank" class="facebook social-icon kmq-blog-footer-social-link"><span class="icon-facebook2"></span></a>
+<a href="https://twitter.com/coschedule" target="_blank" class="twitter social-icon kmq-blog-footer-social-link"><span class="icon-twitter2"></span></a>
+<a href="https://www.linkedin.com/company/coschedule" target="_blank" class="linkedin social-icon kmq-blog-footer-social-link"><span class="icon-linkedin2"></span></a>
+<a href="https://pinterest.com/coschedule" target="_blank" class="social-icon pinterest kmq-blog-footer-social-link"><span class="icon-pinterest"></span></a>
+<a href="https://www.instagram.com/coschedule/" target="_blank" class="social-icon kmq-blog-footer-social-link"><span class="icon-instagram"></span></a>
+</div>
+</div>
+</div>
+</div>
+<script>
+	// Set lead form variables
+	$('.aj-lead-input-type').val('Blog Lead Form');
+</script>
+<script type="text/javascript" src="https://coschedule.com/blog/wp-content/themes/CoS4/js/cos-blog-single.js"></script>
+<script>
+	$(document).ready(function() {
+
+        // Override inline styles of bold text
+        $('span').each(function() {
+            var $el;
+            $el = $(this);
+            var attr = $el.attr("style");
+            if ((attr !== undefined) && (attr.indexOf("bold") > -1)) {
+                $el.removeAttr('style')
+                .css('font-family','MuseoSans-700');
+            }
+        });
+
+        // Analytics (moved to cos-blog-cta-shortcode.js)
+
+	});
+</script>
+<div class="clear"></div>
+
+<style>
+			.modal {
+				border-color: #333;
+				background-color: #FFF;
+			}
+			.oit-pm-btn {
+				background-color: #333;
+			}
+			.oit-pm-btn:hover {
+				background-color: #333;
+			}
+			.oit-modal-close {
+				color: #333;
+			}
+			
+		</style>
+<div id="podcastMotorModal" class="modal">
+<button class="modal-action modal-close oit-modal-close"><i class="ion-close"></i></button>
+<div class="modal-content"><form action="#" method="post" target="_blank">
+<input type="email" class="oit-pm-email" name="">
+<button type="submit" class="modal-action modal-close oit-pm-btn">Sign Up!</button>
+</form> </div></div> <div style="display:none">
+<div class="grofile-hash-map-74c918ac779b81d2a20b9506db75fa23">
+</div>
+<div class="grofile-hash-map-838c2ebe1426241a67c2a9edea7cd43c">
+</div>
+<div class="grofile-hash-map-0a2e71a42931ba0ebd25dbdec3d370ea">
+</div>
+</div>
+<style type="text/css">
+					.searchwp-live-search-results {
+						opacity: 0;
+						transition: opacity .25s ease-in-out;
+						-moz-transition: opacity .25s ease-in-out;
+						-webkit-transition: opacity .25s ease-in-out;
+						height: 0;
+						overflow: hidden;
+						z-index: 9999995; /* Exceed SearchWP Modal Search Form overlay. */
+						position: absolute;
+						display: none;
+					}
+
+					.searchwp-live-search-results-showing {
+						display: block;
+						opacity: 1;
+						height: auto;
+						overflow: auto;
+					}
+
+					.searchwp-live-search-no-results {
+						padding: 3em 2em 0;
+						text-align: center;
+					}
+
+					.searchwp-live-search-no-min-chars:after {
+						content: "Continue typing";
+						display: block;
+						text-align: center;
+						padding: 2em 2em 0;
+					}
+				</style>
+<script type='text/javascript' id='disqus_count-js-extra'>
+/* <![CDATA[ */
+var countVars = {"disqusShortname":"coschedule"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://coschedule.com/blog/wp-content/plugins/disqus-comment-system/public/js/comment_count.js?ver=3.0.17' id='disqus_count-js'></script>
+<script type='text/javascript' id='disqus_embed-js-extra'>
+/* <![CDATA[ */
+var embedVars = {"disqusConfig":{"integration":"wordpress 3.0.17"},"disqusIdentifier":"93158 https:\/\/coschedule.com\/?p=93158","disqusShortname":"coschedule","disqusTitle":"How to Write Press Release Headlines That Will Get a Journalist\u2019s Attention","disqusUrl":"https:\/\/coschedule.com\/blog\/press-release-headlines\/","postId":"93158"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://coschedule.com/blog/wp-content/plugins/disqus-comment-system/public/js/comment_embed.js?ver=3.0.17' id='disqus_embed-js'></script>
+<script type='text/javascript' id='rate-my-post-js-extra'>
+/* <![CDATA[ */
+var rmp_frontend = {"admin_ajax":"https:\/\/coschedule.com\/blog\/wp-admin\/admin-ajax.php","postID":"93158","noVotes":"","cookie":"You've already given your feedback.","afterVote":"Thank you for your feedback!","notShowRating":"2","social":"1","feedback":"2","cookieDisable":"1","emptyFeedback":"Please insert your feedback in the box above.","hoverTexts":"2","preventAccidental":"1","grecaptcha":"1","siteKey":"","votingPriv":"1","loggedIn":"","positiveThreshold":"5","ajaxLoad":"1","nonce":"42e17845f7"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://coschedule.com/blog/wp-content/plugins/rate-my-post/public/js/rate-my-post.js?ver=3.3.1' id='rate-my-post-js'></script>
+<script type='text/javascript' id='swp-live-search-client-js-extra'>
+/* <![CDATA[ */
+var searchwp_live_search_params = [];
+searchwp_live_search_params = {"ajaxurl":"https:\/\/coschedule.com\/blog\/wp-admin\/admin-ajax.php","origin_id":93158,"config":{"default":{"engine":"default","input":{"delay":300,"min_chars":3},"results":{"position":"bottom","width":"auto","offset":{"x":0,"y":5}},"spinner":{"lines":12,"length":8,"width":3,"radius":8,"scale":1,"corners":1,"color":"#424242","fadeColor":"transparent","speed":1,"rotate":0,"animation":"searchwp-spinner-line-fade-quick","direction":1,"zIndex":2000000000,"className":"spinner","top":"50%","left":"50%","shadow":"0 0 1px transparent","position":"absolute"}}},"msg_no_config_found":"No valid SearchWP Live Search configuration found!","aria_instructions":"When autocomplete results are available use up and down arrows to review and enter to go to the desired page. Touch device users, explore by touch or with swipe gestures."};;
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://coschedule.com/blog/wp-content/plugins/searchwp-live-ajax-search/assets/javascript/dist/bundle.min.js?ver=1.4.6' id='swp-live-search-client-js'></script>
+<script type='text/javascript' src='https://coschedule.com/blog/wp-includes/js/wp-embed.min.js?ver=5.5.1' id='wp-embed-js'></script>
+
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 983836026;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+
+
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/983836026/?value=0&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+</body>
+</html>
